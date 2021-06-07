@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class HeartCollect : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+	public int RotateSpeed;
+	public AudioSource CollectSound;
+	public GameObject ThisHeart;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
+	void Update()
+	{
+		RotateSpeed = 2;
+		transform.Rotate(0, RotateSpeed, 0, Space.World);
+	}
+
+
+	void OnTriggerEnter()
+	{
+		CollectSound.Play();
+		ThisHeart.SetActive(false);
+	}
 }
