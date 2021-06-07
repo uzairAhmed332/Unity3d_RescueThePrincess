@@ -15,10 +15,15 @@ public class HeartCollect : MonoBehaviour
 		transform.Rotate(0, RotateSpeed, 0, Space.World);
 	}
 
-
+	//When we collide with heart
 	void OnTriggerEnter()
 	{
-		CollectSound.Play();
-		ThisHeart.SetActive(false);
+		//Temp
+		//CollectSound.Play();
+
+		HealthMonitor.HealthValue += 1;
+
+		// Same as below line: ThisHeart.SetActive(false);
+		this.gameObject.SetActive(false);
 	}
 }
