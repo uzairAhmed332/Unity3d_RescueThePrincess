@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: d6646ddbbc25693499131407a4f07013
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: chestLower
+    100006: chestUpper
+    100008: FS Gloves_7012
+    100010: FS Gloves_7012.Shape
+    100012: hip
+    100014: lCarpal1
+    100016: lCarpal2
+    100018: lCarpal3
+    100020: lCarpal4
+    100022: lCollar
+    100024: lForearmBend
+    100026: lForearmTwist
+    100028: lHand
+    100030: lIndex1
+    100032: lIndex2
+    100034: lIndex3
+    100036: lMid1
+    100038: lMid2
+    100040: lMid3
+    100042: lPectoral
+    100044: lPinky1
+    100046: lPinky2
+    100048: lPinky3
+    100050: lRing1
+    100052: lRing2
+    100054: lRing3
+    100056: lShldrBend
+    100058: lShldrTwist
+    100060: lThumb1
+    100062: lThumb2
+    100064: lThumb3
+    100066: neckLower
+    100068: pelvis
+    100070: rCarpal1
+    100072: rCarpal2
+    100074: rCarpal3
+    100076: rCarpal4
+    100078: rCollar
+    100080: rForearmBend
+    100082: rForearmTwist
+    100084: rHand
+    100086: rIndex1
+    100088: rIndex2
+    100090: rIndex3
+    100092: rMid1
+    100094: rMid2
+    100096: rMid3
+    100098: rPectoral
+    100100: rPinky1
+    100102: rPinky2
+    100104: rPinky3
+    100106: rRing1
+    100108: rRing2
+    100110: rRing3
+    100112: rShldrBend
+    100114: rShldrTwist
+    100116: rThumb1
+    100118: rThumb2
+    100120: rThumb3
+    100122: //RootNode
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: chestLower
+    400006: chestUpper
+    400008: FS Gloves_7012
+    400010: FS Gloves_7012.Shape
+    400012: hip
+    400014: lCarpal1
+    400016: lCarpal2
+    400018: lCarpal3
+    400020: lCarpal4
+    400022: lCollar
+    400024: lForearmBend
+    400026: lForearmTwist
+    400028: lHand
+    400030: lIndex1
+    400032: lIndex2
+    400034: lIndex3
+    400036: lMid1
+    400038: lMid2
+    400040: lMid3
+    400042: lPectoral
+    400044: lPinky1
+    400046: lPinky2
+    400048: lPinky3
+    400050: lRing1
+    400052: lRing2
+    400054: lRing3
+    400056: lShldrBend
+    400058: lShldrTwist
+    400060: lThumb1
+    400062: lThumb2
+    400064: lThumb3
+    400066: neckLower
+    400068: pelvis
+    400070: rCarpal1
+    400072: rCarpal2
+    400074: rCarpal3
+    400076: rCarpal4
+    400078: rCollar
+    400080: rForearmBend
+    400082: rForearmTwist
+    400084: rHand
+    400086: rIndex1
+    400088: rIndex2
+    400090: rIndex3
+    400092: rMid1
+    400094: rMid2
+    400096: rMid3
+    400098: rPectoral
+    400100: rPinky1
+    400102: rPinky2
+    400104: rPinky3
+    400106: rRing1
+    400108: rRing2
+    400110: rRing3
+    400112: rShldrBend
+    400114: rShldrTwist
+    400116: rThumb1
+    400118: rThumb2
+    400120: rThumb3
+    400122: //RootNode
+    2100000: Body
+    2100002: Finger Trim
+    2100004: Wrist Trim
+    4300000: FS Gloves_7012.Shape
+    9500000: //RootNode
+    13700000: FS Gloves_7012.Shape
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

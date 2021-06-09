@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: cd07aa50282a4a84ebd1c26bf4af1bb1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: hip
+    100004: lBigToe
+    100006: lBigToe_2
+    100008: lFoot
+    100010: lMetatarsals
+    100012: lShin
+    100014: lSmallToe1
+    100016: lSmallToe1_2
+    100018: lSmallToe2
+    100020: lSmallToe2_2
+    100022: lSmallToe3
+    100024: lSmallToe3_2
+    100026: lSmallToe4
+    100028: lSmallToe4_2
+    100030: lThighBend
+    100032: lThighTwist
+    100034: lToe
+    100036: pelvis
+    100038: rBigToe
+    100040: rBigToe_2
+    100042: rFoot
+    100044: rMetatarsals
+    100046: rShin
+    100048: rSmallToe1
+    100050: rSmallToe1_2
+    100052: rSmallToe2
+    100054: rSmallToe2_2
+    100056: rSmallToe3
+    100058: rSmallToe3_2
+    100060: rSmallToe4
+    100062: rSmallToe4_2
+    100064: rThighBend
+    100066: rThighTwist
+    100068: rToe
+    100070: //RootNode
+    100072: SFS Boots NEW_21060
+    100074: SFS Boots NEW_21060.Shape
+    400000: abdomenLower
+    400002: hip
+    400004: lBigToe
+    400006: lBigToe_2
+    400008: lFoot
+    400010: lMetatarsals
+    400012: lShin
+    400014: lSmallToe1
+    400016: lSmallToe1_2
+    400018: lSmallToe2
+    400020: lSmallToe2_2
+    400022: lSmallToe3
+    400024: lSmallToe3_2
+    400026: lSmallToe4
+    400028: lSmallToe4_2
+    400030: lThighBend
+    400032: lThighTwist
+    400034: lToe
+    400036: pelvis
+    400038: rBigToe
+    400040: rBigToe_2
+    400042: rFoot
+    400044: rMetatarsals
+    400046: rShin
+    400048: rSmallToe1
+    400050: rSmallToe1_2
+    400052: rSmallToe2
+    400054: rSmallToe2_2
+    400056: rSmallToe3
+    400058: rSmallToe3_2
+    400060: rSmallToe4
+    400062: rSmallToe4_2
+    400064: rThighBend
+    400066: rThighTwist
+    400068: rToe
+    400070: //RootNode
+    400072: SFS Boots NEW_21060
+    400074: SFS Boots NEW_21060.Shape
+    2100000: Hardware
+    2100002: Rivots
+    2100004: Body
+    2100006: Foot
+    2100008: Toe
+    2100010: Strap
+    2100012: Flap
+    2100014: Laces
+    2100016: Sole
+    2100018: Heel
+    4300000: SFS Boots NEW_21060.Shape
+    9500000: //RootNode
+    13700000: SFS Boots NEW_21060.Shape
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

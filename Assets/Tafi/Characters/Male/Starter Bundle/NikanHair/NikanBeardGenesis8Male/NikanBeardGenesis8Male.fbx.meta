@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: b25553984a597a243be94bf9980cc934
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: aprilyshNikanBeard_56658
+    100006: aprilyshNikanBeard_56658.Shape
+    100008: BeardChin
+    100010: BeardChinL
+    100012: BeardChinR
+    100014: BeardUnderLip
+    100016: BeardUpperLip
+    100018: BelowJaw
+    100020: chestLower
+    100022: chestUpper
+    100024: Chin
+    100026: head
+    100028: hip
+    100030: lCheekLower
+    100032: lCheekUpper
+    100034: lEar
+    100036: LipBelow
+    100038: LipLowerMiddle
+    100040: LipUpperMiddle
+    100042: lJawClench
+    100044: lLipBelowNose
+    100046: lLipCorner
+    100048: lLipLowerInner
+    100050: lLipLowerOuter
+    100052: lLipNasolabialCrease
+    100054: lLipUpperInner
+    100056: lLipUpperOuter
+    100058: lNasolabialLower
+    100060: lNasolabialMiddle
+    100062: lNasolabialMouthCorner
+    100064: lNasolabialUpper
+    100066: lNostril
+    100068: lowerFaceRig
+    100070: lowerJaw
+    100072: neckLower
+    100074: neckUpper
+    100076: //RootNode
+    100078: Nose
+    100080: rCheekLower
+    100082: rCheekUpper
+    100084: rEar
+    100086: rJawClench
+    100088: rLipBelowNose
+    100090: rLipCorner
+    100092: rLipLowerInner
+    100094: rLipLowerOuter
+    100096: rLipNasolabialCrease
+    100098: rLipUpperInner
+    100100: rLipUpperOuter
+    100102: rNasolabialLower
+    100104: rNasolabialMiddle
+    100106: rNasolabialMouthCorner
+    100108: rNasolabialUpper
+    100110: rNostril
+    100112: upperFaceRig
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: aprilyshNikanBeard_56658
+    400006: aprilyshNikanBeard_56658.Shape
+    400008: BeardChin
+    400010: BeardChinL
+    400012: BeardChinR
+    400014: BeardUnderLip
+    400016: BeardUpperLip
+    400018: BelowJaw
+    400020: chestLower
+    400022: chestUpper
+    400024: Chin
+    400026: head
+    400028: hip
+    400030: lCheekLower
+    400032: lCheekUpper
+    400034: lEar
+    400036: LipBelow
+    400038: LipLowerMiddle
+    400040: LipUpperMiddle
+    400042: lJawClench
+    400044: lLipBelowNose
+    400046: lLipCorner
+    400048: lLipLowerInner
+    400050: lLipLowerOuter
+    400052: lLipNasolabialCrease
+    400054: lLipUpperInner
+    400056: lLipUpperOuter
+    400058: lNasolabialLower
+    400060: lNasolabialMiddle
+    400062: lNasolabialMouthCorner
+    400064: lNasolabialUpper
+    400066: lNostril
+    400068: lowerFaceRig
+    400070: lowerJaw
+    400072: neckLower
+    400074: neckUpper
+    400076: //RootNode
+    400078: Nose
+    400080: rCheekLower
+    400082: rCheekUpper
+    400084: rEar
+    400086: rJawClench
+    400088: rLipBelowNose
+    400090: rLipCorner
+    400092: rLipLowerInner
+    400094: rLipLowerOuter
+    400096: rLipNasolabialCrease
+    400098: rLipUpperInner
+    400100: rLipUpperOuter
+    400102: rNasolabialLower
+    400104: rNasolabialMiddle
+    400106: rNasolabialMouthCorner
+    400108: rNasolabialUpper
+    400110: rNostril
+    400112: upperFaceRig
+    2100000: hair1
+    2100002: hair2
+    4300000: aprilyshNikanBeard_56658.Shape
+    9500000: //RootNode
+    13700000: aprilyshNikanBeard_56658.Shape
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
