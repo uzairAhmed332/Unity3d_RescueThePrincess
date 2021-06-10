@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class QuestSword : MonoBehaviour
 {
@@ -18,9 +19,13 @@ public class QuestSword : MonoBehaviour
 
 	void OnMouseOver()
 	{
+		//print("check0");
 		if (TheDistance <= 3)
 		{
+			//	print("check1");
+
 			ActionDisplay.SetActive(true);
+			ActionDisplay.GetComponent<Text>().text = "Press[v] to View Text";
 			//ActionText.SetActive(true);
 		}
 
@@ -38,6 +43,8 @@ public class QuestSword : MonoBehaviour
 			}
 		}
 	}
+
+
 
 	void OnMouseExit()
 	{
@@ -57,7 +64,7 @@ public class QuestSword : MonoBehaviour
 
 		//Do the action after the delay time has finished.
 
-		ThePlayer.SetActive(true);
+		ThePlayer.SetActive(true);   
 		NoticeCam.SetActive(false);
 		UIQuest.SetActive(false);
 	}
