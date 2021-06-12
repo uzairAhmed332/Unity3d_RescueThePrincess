@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class InventorySelect : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    public GameObject TheSword;
+    public GameObject InventoryPanel;
+    public GameObject ItemEquipped;
+
+    public void ItemTake() {
+        TheSword.SetActive(true);
+        ItemEquipped.SetActive(true);
     }
 
-    // Update is called once per frame
-    void Update()
+
+    public void ItemCancel()
     {
-        
+        InventoryPanel.SetActive(false);
     }
 }

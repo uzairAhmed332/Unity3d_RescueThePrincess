@@ -8,7 +8,7 @@ public class SwordPickUp : MonoBehaviour
     public float TheDistance;
 	public GameObject ActionText;
 	public GameObject FakeSword;
-	public GameObject RealSword;
+	public GameObject RealSword; //Change it to Inventory Sword...And put InventoryPanel -> slot01 -->itemImage (drag & drop)!
 
 	void Update()
 	{
@@ -17,17 +17,20 @@ public class SwordPickUp : MonoBehaviour
 
 	void OnMouseOver()
 	{
-	
+
 		if (TheDistance <= 5)
 		{
-			ActionText.GetComponent<Text>().text= "Press [P] to pick the Sword!";
+			ActionText.GetComponent<Text>().text = "Press [P] to pick the Sword!";
 			ActionText.SetActive(true);
+		}
+		else {
+			ActionText.SetActive(false);
 		}
 
 		if (Input.GetButtonDown("Pick"))
 		{
 			if (TheDistance <= 5)
-			{   
+			{
 				transform.position = new Vector3(0f, 0f, 0f);
 				RealSword.SetActive(true);
 				FakeSword.SetActive(false);
@@ -35,14 +38,15 @@ public class SwordPickUp : MonoBehaviour
 				ActionText.SetActive(false);
 			}
 		}
+		
 	}
 
- //   private void OnMouseExit()
- //   {
- //       ActionText.GetComponent<Text>().text = "";
-	//	//ActionDisplay.SetActive(false);
-	//	ActionText.SetActive(false);
-	//}
+    private void OnMouseExit()
+    {
+        ActionText.GetComponent<Text>().text = "";
+        //ActionDisplay.SetActive(false);
+        ActionText.SetActive(false);
+    }
 
     //   private void OnMouseDown()
     //   {
